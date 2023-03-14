@@ -61,3 +61,11 @@ Hello, world!
 4 0 13 0ms
 4 1 65533 2822ms
 ```
+
+The next calculation is 4 2, which takes
+
+```sh
+2^65533 * 2822ms = 2^65533 * 2.822s = 7.06745182951015090521367772012880215970470436507229813145 × 10^19727s = 2.24107427369043344279987243788965060873436845670734973727 × 10^19720 years
+```
+
+The universe will be [crunched](https://en.wikipedia.org/wiki/Big_Crunch) before the calculation is finished.
